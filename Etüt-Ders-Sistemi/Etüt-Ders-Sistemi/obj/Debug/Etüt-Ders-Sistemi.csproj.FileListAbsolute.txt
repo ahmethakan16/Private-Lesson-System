@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Etüt-Ders-Sistemi\Etüt-Ders-Sistemi\bin\Debug\Etüt-Ders-Sistemi.exe.config
+C:\Users\Lenovo\source\repos\Etüt-Ders-Sistemi\Etüt-Ders-Sistemi\bin\Debug\Etüt-Ders-Sistemi.exe
+C:\Users\Lenovo\source\repos\Etüt-Ders-Sistemi\Etüt-Ders-Sistemi\bin\Debug\Etüt-Ders-Sistemi.pdb
+C:\Users\Lenovo\source\repos\Etüt-Ders-Sistemi\Etüt-Ders-Sistemi\obj\Debug\Etüt-Ders-Sistemi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Etüt-Ders-Sistemi\Etüt-Ders-Sistemi\obj\Debug\Etüt-Ders-Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Etüt-Ders-Sistemi\Etüt-Ders-Sistemi\obj\Debug\Etüt_Ders_Sistemi.Form1.resources
+C:\Users\Lenovo\source\repos\Etüt-Ders-Sistemi\Etüt-Ders-Sistemi\obj\Debug\Etüt_Ders_Sistemi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Etüt-Ders-Sistemi\Etüt-Ders-Sistemi\obj\Debug\Etüt-Ders-Sistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Etüt-Ders-Sistemi\Etüt-Ders-Sistemi\obj\Debug\Etüt-Ders-Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Etüt-Ders-Sistemi\Etüt-Ders-Sistemi\obj\Debug\Etüt-Ders-Sistemi.exe
+C:\Users\Lenovo\source\repos\Etüt-Ders-Sistemi\Etüt-Ders-Sistemi\obj\Debug\Etüt-Ders-Sistemi.pdb
